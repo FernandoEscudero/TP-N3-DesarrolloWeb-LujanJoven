@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div {
+    background-color: aquamarine;
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+
+#Buscador {
+    background-color: aqua;
+    border-radius: 10px;
+    position: absolute;
+    padding: 5px 40px;
+    left: 42%;
+    top: 25px;
+}
+
+#Buscar {
+    position: absolute;
+    left: 1070px;
+    top: 30px;
+    border-radius: 10px;
+    background-color: rgb(255, 180, 180);
+}

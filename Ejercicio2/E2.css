@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+/* Fondo de guía, con ancho=200px */
+div {
+    box-sizing: content-box;
+    background-color: aqua;
+    width: 50%;
+    height: 200px;
+    margin: 0px;
+}
+
+div ul {
+    margin: 0px;
+}
+
+.Lista1 {
+    background-color: gray;
+    padding: 10px 0px;
+}
+
+.Lista2 {
+    background-color: rgb(196, 193, 193);
+    padding: 10px 0px;
+}

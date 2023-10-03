@@ -1,0 +1,29 @@
+body {
+    margin: 10px;
+}
+
+nav {
+    position: relative;
+}
+
+img {
+    position: absolute;
+}
+
+#i1 {
+    top: 0px;
+    left: 0px;
+}
+
+#i2 {
+    left: 155px;
+}
+
+#i3 {
+    top: 155px;
+    left: 100px;
+}
+
+#i4 {
+    top: 100px;
+}

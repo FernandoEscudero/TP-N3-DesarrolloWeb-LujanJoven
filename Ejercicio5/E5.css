@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    box-sizing: content-box;
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+    position: relative;
+}
+
+div {
+    background-color: #49e;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+}
+
+#caja1 {
+    position: absolute;
+    left: 350px;
+}
+
+#caja2 {
+    position: absolute;
+    right: 0px;
+    top: 350px;
+}
+
+#caja3 {
+    position: absolute;
+    bottom: 0px;
+    left: 350px;
+}
+
+
+#caja4 {
+    position: absolute;
+    top: 350px;
+}

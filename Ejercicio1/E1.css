@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+
+header {
+    box-sizing: content-box;
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(30deg, aqua, yellow);
+}
+
+header p {
+    text-align: center;
+    margin: 0px;
+}
